@@ -1,0 +1,20 @@
+.background{
+    background-color: gray;
+}
+.header{
+    background-color: black;
+    height: 10%;
+}
+.else {
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+}
+.thing1{
+    background-color: white;
+    height: 80%;
+}
+.thing2 {
+    background-color: black;
+    height: 10%;
+}

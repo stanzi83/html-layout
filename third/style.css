@@ -1,0 +1,39 @@
+.top {
+    background-color: lightgrey;
+    height: 15%;
+}
+.bigbox {
+    background-color: blue;
+    display: inline-block;
+    width: 5%;
+    height: 70%;
+    float: left;
+    margin: 10px;
+}
+.text {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    height: 25%;
+}
+.rest {
+    background-color: none;
+    height: 60%;
+}
+.two {
+    background-color: blue;
+    height: 25%;
+}
+.three {
+    background-color: turquoise;
+    height: 25%;
+}
+.four {
+    background-color: yellowgreen;
+    height: 25%;
+}
+.five {
+    background-color: yellow;
+    height: 25%;
+}
+
